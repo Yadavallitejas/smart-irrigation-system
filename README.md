@@ -15,7 +15,7 @@ This smart irrigation system automates plant watering by monitoring soil moistur
 
 ---
 
-### #1. Components
+### 1. Components
 
 | Component             | Quantity | Description                                       |
 |-----------------------|----------|---------------------------------------------------|
