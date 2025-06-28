@@ -3,6 +3,8 @@
 ### Project Overview
 This smart irrigation system automates plant watering by monitoring soil moisture levels and activating a pump motor when necessary. An LCD screen displays real-time soil moisture readings and pump status, providing immediate feedback for users. The system includes an Arduino Uno, a soil moisture sensor, a pump motor, a relay module, and an LCD display.
 
+#project img.jpg
+
 ### Table of Contents
 1. [Components](#components)
 2. [Circuit](#circuit)
